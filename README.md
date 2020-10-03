@@ -3,6 +3,7 @@ A gamejam project made in Unity that got 2nd place in Christchurch awarded by th
 
 message me here: frozenwispstudios@gmail.com for more details thanks
 Also follow me here on 
+
 Twitter: https://twitter.com/_frozenwisp_
 
 Instagram: https://www.instagram.com/frozenwispstudios/
